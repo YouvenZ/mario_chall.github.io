@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ananke Fr</title>
-    <link>http://localhost:36863/fr/</link>
+    <link>http://localhost:1313/mario_chall.github.io/fr/</link>
     <description>Recent content on Ananke Fr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 11 Apr 2024 16:50:33 +0200</lastBuildDate>
-    <atom:link href="http://localhost:36863/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mario_chall.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:36863/fr/my-first-post/</link>
+      <link>http://localhost:1313/mario_chall.github.io/fr/my-first-post/</link>
       <pubDate>Thu, 11 Apr 2024 16:50:33 +0200</pubDate>
-      <guid>http://localhost:36863/fr/my-first-post/</guid>
+      <guid>http://localhost:1313/mario_chall.github.io/fr/my-first-post/</guid>
       <description>First post Currently trying to learn more about Hugo</description>
     </item>
   </channel>
